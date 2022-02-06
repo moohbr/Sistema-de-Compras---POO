@@ -5,5 +5,3 @@ with open('products.csv', "r", encoding='utf-8') as data:
     line = read_new_line(data)
 
     product_list = create_product_list(labels, line, data)
-
-    #  print(product_list[1].get('amount'))
