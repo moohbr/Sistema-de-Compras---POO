@@ -12,6 +12,7 @@ while number_id != len(order_list):
 
     order_amount = order_list[number_id].get('amount')
     order_id = order_list[number_id].get('id')
+    
     consumer_id = order_list[number_id].get('consumer_id')
     consumer_name = client_list[int(order_list[number_id].get('consumer_id'))].get('name')
     consumer_wallet = client_list[int(order_list[number_id].get('consumer_id'))].get('wallet')
