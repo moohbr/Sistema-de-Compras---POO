@@ -82,6 +82,7 @@ def generate_csv(order_error_list):
                            'products_names'])
     print(df)
 
+
 class OrdersErrors:
 
     def __init__(self, user_id, user_name):
