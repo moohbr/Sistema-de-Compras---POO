@@ -4,6 +4,6 @@ We have the following data from an online store system that failed during valida
 
 Develop a system to validate valid purchases made, check that at the time of purchase:
 
- - O comprador possuía saldo disponível na carteira.
- - A loja continha a quantidade do produto em estoque.
- - O sistema deve contabilizar as compras inválidas, por usuário, e quantas pessoas foram afetadas pelo ocorrido.
+ - If the buyer had an available balance in the wallet.
+ - The store had the quantity of the product in stock.
+ - The system must count invalid purchases, per user, and how many people were affected.
