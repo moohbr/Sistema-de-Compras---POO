@@ -1,7 +1,8 @@
 # krakens_poo_loja
  
-Temos os seguintes dados de um sistema de uma loja online que falhou durante a validação no processamento das ordens de compras realizadas pelos usuários.
-Desenvolver um sistema para validar a compras válidas realizadas, checar se no momento da compra:
+We have the following data from an online store system that failed during validation in processing purchase orders made by users.
+
+Develop a system to validate valid purchases made, check that at the time of purchase:
 
  - O comprador possuía saldo disponível na carteira.
  - A loja continha a quantidade do produto em estoque.
